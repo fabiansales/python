@@ -18,21 +18,21 @@ Prueba tu código con los datos que hemos proporcionado.
 # ** Datos de Prueba: **
 
 Entrada de muestra: **6**
-Salida esperada:
+ - Salida esperada:
 
 **La altura de la pirámide es: 3**
 
 Entrada de muestra: **20**
-Salida esperada:
+ - Salida esperada:
 
 **La altura de la pirámide: 5**
 
 Entrada de muestra: **1000**
-Salida esperada:
+ - Salida esperada:
 
 **La altura de la pirámide: 44**
 
 Entrada de muestra: **2**
-Salida esperada:
+ - Salida esperada:
 
 **La altura de la pirámide: 1**
